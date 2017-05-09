@@ -23,4 +23,3 @@ const emails= ['frodo@email.com','sam@email.com','merry@email.com']
 emails.push('pippin@email.com');//It doesn't change the const value
 
 console.log(emails);
-//change

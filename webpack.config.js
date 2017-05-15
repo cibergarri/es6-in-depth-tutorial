@@ -1,5 +1,5 @@
 module.exports = {
-  entry: ['babel-polyfill', './app/Fetch.js'],
+  entry: ['babel-polyfill', './app/books.js'],
   output: {
     path: './build',
     // if the above line does not work, try `path: __dirname + '/build'`
